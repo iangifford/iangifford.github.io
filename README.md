@@ -1,2 +1,2 @@
 # iangifford.github.io
-Javadocs for retrieval.
+Javadocs for retrieval library.
